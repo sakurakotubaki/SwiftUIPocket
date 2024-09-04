@@ -1,9 +1,19 @@
+# SwiftUI Tutorial
+
+### P126~
+```swift
 import SwiftUI
 
 // Viewは画面を作る構造体
 struct ContentView: View {
     var body: some View {
-        Color.blue.ignoresSafeArea(.all, edges: [.top])
+        VStack {
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundStyle(.tint)
+            Text("Hello, world!")
+        }
+        .padding()
     }
 }
 
@@ -17,3 +27,4 @@ Previewは、UIをプレビューで表示する構造体。
 #Preview {
     ContentView()
 }
+```
