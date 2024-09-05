@@ -1,5 +1,9 @@
 import SwiftUI
 
+/*
+Alignmentは、オブジェクトの位置を調整する
+時に使う
+*/
 struct ViewAlignment: View {
     var body: some View {
         VStack {
