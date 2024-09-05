@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C3151E172C8A684A0024C19C /* ViewAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151E162C8A684A0024C19C /* ViewAlignment.swift */; };
 		C38728372C89180900E9EBF1 /* SwiftUIPocketApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38728362C89180900E9EBF1 /* SwiftUIPocketApp.swift */; };
 		C38728392C89180900E9EBF1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38728382C89180900E9EBF1 /* ContentView.swift */; };
 		C387283B2C89180A00E9EBF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C387283A2C89180A00E9EBF1 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C3151E162C8A684A0024C19C /* ViewAlignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewAlignment.swift; sourceTree = "<group>"; };
 		C38728332C89180900E9EBF1 /* SwiftUIPocket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIPocket.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C38728362C89180900E9EBF1 /* SwiftUIPocketApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPocketApp.swift; sourceTree = "<group>"; };
 		C38728382C89180900E9EBF1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				C38728452C891B6C00E9EBF1 /* SafeAreaView.swift */,
+				C3151E162C8A684A0024C19C /* ViewAlignment.swift */,
 			);
 			path = Lesson01;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3151E172C8A684A0024C19C /* ViewAlignment.swift in Sources */,
 				C38728392C89180900E9EBF1 /* ContentView.swift in Sources */,
 				C38728462C891B6C00E9EBF1 /* SafeAreaView.swift in Sources */,
 				C38728372C89180900E9EBF1 /* SwiftUIPocketApp.swift in Sources */,
