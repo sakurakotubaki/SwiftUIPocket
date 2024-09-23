@@ -7,16 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C300C8F02C978FF5007D2504 /* OverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C300C8EF2C978FF5007D2504 /* OverlayView.swift */; };
 		C3151E172C8A684A0024C19C /* ViewAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151E162C8A684A0024C19C /* ViewAlignment.swift */; };
 		C3151E192C8A6F870024C19C /* AttributeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151E182C8A6F870024C19C /* AttributeView.swift */; };
 		C3151E1B2C8A72FA0024C19C /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151E1A2C8A72FA0024C19C /* BackgroundView.swift */; };
 		C329079D2C925263006F7F10 /* MapShowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C329079C2C925263006F7F10 /* MapShowView.swift */; };
 		C329079F2C92597B006F7F10 /* CameraPositionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C329079E2C92597B006F7F10 /* CameraPositionView.swift */; };
 		C32AB1782C8BD6210084DCF3 /* ParenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32AB1772C8BD6210084DCF3 /* ParenView.swift */; };
+		C32C5A942C9852FF00BC45C1 /* UISampleFormExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32C5A932C9852FF00BC45C1 /* UISampleFormExample.swift */; };
+		C3719F8E2C9726F1005D0EB5 /* MapSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3719F8D2C9726F1005D0EB5 /* MapSectionView.swift */; };
+		C3719F902C97312B005D0EB5 /* UniversityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3719F8F2C97312B005D0EB5 /* UniversityView.swift */; };
 		C382954B2C8FAB24001C8DB1 /* PopverExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C382954A2C8FAB24001C8DB1 /* PopverExampleView.swift */; };
 		C382954D2C8FADEE001C8DB1 /* TabExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C382954C2C8FADEE001C8DB1 /* TabExampleView.swift */; };
 		C382954F2C8FB55B001C8DB1 /* ShapesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C382954E2C8FB55B001C8DB1 /* ShapesView.swift */; };
 		C38295512C8FB9B3001C8DB1 /* ShapeButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38295502C8FB9B3001C8DB1 /* ShapeButtonView.swift */; };
+		C3841D942CA2164100F7C67E /* LabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3841D932CA2164100F7C67E /* LabelView.swift */; };
+		C3841D962CA2176D00F7C67E /* NavigationBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3841D952CA2176D00F7C67E /* NavigationBarView.swift */; };
+		C3841D982CA2186500F7C67E /* ToolBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3841D972CA2186500F7C67E /* ToolBarView.swift */; };
 		C38728372C89180900E9EBF1 /* SwiftUIPocketApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38728362C89180900E9EBF1 /* SwiftUIPocketApp.swift */; };
 		C38728392C89180900E9EBF1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38728382C89180900E9EBF1 /* ContentView.swift */; };
 		C387283B2C89180A00E9EBF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C387283A2C89180A00E9EBF1 /* Assets.xcassets */; };
@@ -31,16 +38,23 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C300C8EF2C978FF5007D2504 /* OverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlayView.swift; sourceTree = "<group>"; };
 		C3151E162C8A684A0024C19C /* ViewAlignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewAlignment.swift; sourceTree = "<group>"; };
 		C3151E182C8A6F870024C19C /* AttributeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttributeView.swift; sourceTree = "<group>"; };
 		C3151E1A2C8A72FA0024C19C /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
 		C329079C2C925263006F7F10 /* MapShowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapShowView.swift; sourceTree = "<group>"; };
 		C329079E2C92597B006F7F10 /* CameraPositionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPositionView.swift; sourceTree = "<group>"; };
 		C32AB1772C8BD6210084DCF3 /* ParenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParenView.swift; sourceTree = "<group>"; };
+		C32C5A932C9852FF00BC45C1 /* UISampleFormExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISampleFormExample.swift; sourceTree = "<group>"; };
+		C3719F8D2C9726F1005D0EB5 /* MapSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapSectionView.swift; sourceTree = "<group>"; };
+		C3719F8F2C97312B005D0EB5 /* UniversityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniversityView.swift; sourceTree = "<group>"; };
 		C382954A2C8FAB24001C8DB1 /* PopverExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopverExampleView.swift; sourceTree = "<group>"; };
 		C382954C2C8FADEE001C8DB1 /* TabExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabExampleView.swift; sourceTree = "<group>"; };
 		C382954E2C8FB55B001C8DB1 /* ShapesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesView.swift; sourceTree = "<group>"; };
 		C38295502C8FB9B3001C8DB1 /* ShapeButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeButtonView.swift; sourceTree = "<group>"; };
+		C3841D932CA2164100F7C67E /* LabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelView.swift; sourceTree = "<group>"; };
+		C3841D952CA2176D00F7C67E /* NavigationBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarView.swift; sourceTree = "<group>"; };
+		C3841D972CA2186500F7C67E /* ToolBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolBarView.swift; sourceTree = "<group>"; };
 		C38728332C89180900E9EBF1 /* SwiftUIPocket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIPocket.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C38728362C89180900E9EBF1 /* SwiftUIPocketApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPocketApp.swift; sourceTree = "<group>"; };
 		C38728382C89180900E9EBF1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -66,6 +80,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C3841D922CA2162000F7C67E /* Lesson03 */ = {
+			isa = PBXGroup;
+			children = (
+				C3841D932CA2164100F7C67E /* LabelView.swift */,
+				C3841D972CA2186500F7C67E /* ToolBarView.swift */,
+				C3841D952CA2176D00F7C67E /* NavigationBarView.swift */,
+			);
+			path = Lesson03;
+			sourceTree = "<group>";
+		};
 		C387282A2C89180900E9EBF1 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +109,7 @@
 		C38728352C89180900E9EBF1 /* SwiftUIPocket */ = {
 			isa = PBXGroup;
 			children = (
+				C3841D922CA2162000F7C67E /* Lesson03 */,
 				C3DE8BBE2C90FACF00349D40 /* Lesson02 */,
 				C38728442C891B3C00E9EBF1 /* Lesson01 */,
 				C38728362C89180900E9EBF1 /* SwiftUIPocketApp.swift */,
@@ -126,8 +151,12 @@
 			children = (
 				C3DE8BBF2C90FB5000349D40 /* ShowImageView.swift */,
 				C329079C2C925263006F7F10 /* MapShowView.swift */,
+				C300C8EF2C978FF5007D2504 /* OverlayView.swift */,
 				C3DE8BC12C90FD0600349D40 /* ImageAspectView.swift */,
 				C329079E2C92597B006F7F10 /* CameraPositionView.swift */,
+				C32C5A932C9852FF00BC45C1 /* UISampleFormExample.swift */,
+				C3719F8F2C97312B005D0EB5 /* UniversityView.swift */,
+				C3719F8D2C9726F1005D0EB5 /* MapSectionView.swift */,
 				C3DE8BC52C910B5B00349D40 /* ScrollSnapView.swift */,
 				C3DE8BC32C91025A00349D40 /* ScrollExampleView.swift */,
 			);
@@ -205,11 +234,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				C3151E1B2C8A72FA0024C19C /* BackgroundView.swift in Sources */,
+				C3719F8E2C9726F1005D0EB5 /* MapSectionView.swift in Sources */,
 				C32AB1782C8BD6210084DCF3 /* ParenView.swift in Sources */,
 				C382954F2C8FB55B001C8DB1 /* ShapesView.swift in Sources */,
 				C3DE8BC62C910B5B00349D40 /* ScrollSnapView.swift in Sources */,
+				C3841D942CA2164100F7C67E /* LabelView.swift in Sources */,
 				C38295512C8FB9B3001C8DB1 /* ShapeButtonView.swift in Sources */,
 				C3E7A4C72C8E552A00660CBB /* ModalView.swift in Sources */,
+				C32C5A942C9852FF00BC45C1 /* UISampleFormExample.swift in Sources */,
+				C3841D962CA2176D00F7C67E /* NavigationBarView.swift in Sources */,
 				C3DE8BC02C90FB5000349D40 /* ShowImageView.swift in Sources */,
 				C382954B2C8FAB24001C8DB1 /* PopverExampleView.swift in Sources */,
 				C3DE8BC22C90FD0600349D40 /* ImageAspectView.swift in Sources */,
@@ -218,8 +251,11 @@
 				C3151E192C8A6F870024C19C /* AttributeView.swift in Sources */,
 				C3151E172C8A684A0024C19C /* ViewAlignment.swift in Sources */,
 				C38728392C89180900E9EBF1 /* ContentView.swift in Sources */,
+				C300C8F02C978FF5007D2504 /* OverlayView.swift in Sources */,
 				C38728462C891B6C00E9EBF1 /* SafeAreaView.swift in Sources */,
+				C3841D982CA2186500F7C67E /* ToolBarView.swift in Sources */,
 				C382954D2C8FADEE001C8DB1 /* TabExampleView.swift in Sources */,
+				C3719F902C97312B005D0EB5 /* UniversityView.swift in Sources */,
 				C329079F2C92597B006F7F10 /* CameraPositionView.swift in Sources */,
 				C329079D2C925263006F7F10 /* MapShowView.swift in Sources */,
 				C38728372C89180900E9EBF1 /* SwiftUIPocketApp.swift in Sources */,

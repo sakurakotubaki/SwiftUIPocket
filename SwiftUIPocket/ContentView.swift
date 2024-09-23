@@ -3,7 +3,8 @@ import SwiftUI
 // Viewは画面を作る構造体
 struct ContentView: View {
     var body: some View {
-        Color.blue.ignoresSafeArea(.all, edges: [.top])
+//        Color.blue.ignoresSafeArea(.all, edges: [.top])
+        UniversityView()
     }
 }
 
