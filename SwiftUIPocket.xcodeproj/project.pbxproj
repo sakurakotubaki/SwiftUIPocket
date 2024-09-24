@@ -11,10 +11,16 @@
 		C3151E172C8A684A0024C19C /* ViewAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151E162C8A684A0024C19C /* ViewAlignment.swift */; };
 		C3151E192C8A6F870024C19C /* AttributeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151E182C8A6F870024C19C /* AttributeView.swift */; };
 		C3151E1B2C8A72FA0024C19C /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151E1A2C8A72FA0024C19C /* BackgroundView.swift */; };
+		C31BF9A72CA21C1E007D4642 /* SearchExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C31BF9A62CA21C1E007D4642 /* SearchExampleView.swift */; };
+		C31BF9A92CA2225E007D4642 /* KeyboardExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C31BF9A82CA2225E007D4642 /* KeyboardExampleView.swift */; };
+		C31BF9AB2CA227CB007D4642 /* ShowOnAppearView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C31BF9AA2CA227CB007D4642 /* ShowOnAppearView.swift */; };
+		C31BF9AD2CA23181007D4642 /* MultiDatePickerSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C31BF9AC2CA23181007D4642 /* MultiDatePickerSample.swift */; };
 		C329079D2C925263006F7F10 /* MapShowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C329079C2C925263006F7F10 /* MapShowView.swift */; };
 		C329079F2C92597B006F7F10 /* CameraPositionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C329079E2C92597B006F7F10 /* CameraPositionView.swift */; };
 		C32AB1782C8BD6210084DCF3 /* ParenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32AB1772C8BD6210084DCF3 /* ParenView.swift */; };
 		C32C5A942C9852FF00BC45C1 /* UISampleFormExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32C5A932C9852FF00BC45C1 /* UISampleFormExample.swift */; };
+		C36A4C0F2CA3783200F1645E /* FocusExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36A4C0E2CA3783200F1645E /* FocusExampleView.swift */; };
+		C36A4C122CA37C0100F1645E /* AnimationExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36A4C112CA37C0100F1645E /* AnimationExampleView.swift */; };
 		C3719F8E2C9726F1005D0EB5 /* MapSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3719F8D2C9726F1005D0EB5 /* MapSectionView.swift */; };
 		C3719F902C97312B005D0EB5 /* UniversityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3719F8F2C97312B005D0EB5 /* UniversityView.swift */; };
 		C382954B2C8FAB24001C8DB1 /* PopverExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C382954A2C8FAB24001C8DB1 /* PopverExampleView.swift */; };
@@ -42,10 +48,16 @@
 		C3151E162C8A684A0024C19C /* ViewAlignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewAlignment.swift; sourceTree = "<group>"; };
 		C3151E182C8A6F870024C19C /* AttributeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttributeView.swift; sourceTree = "<group>"; };
 		C3151E1A2C8A72FA0024C19C /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
+		C31BF9A62CA21C1E007D4642 /* SearchExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchExampleView.swift; sourceTree = "<group>"; };
+		C31BF9A82CA2225E007D4642 /* KeyboardExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardExampleView.swift; sourceTree = "<group>"; };
+		C31BF9AA2CA227CB007D4642 /* ShowOnAppearView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowOnAppearView.swift; sourceTree = "<group>"; };
+		C31BF9AC2CA23181007D4642 /* MultiDatePickerSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiDatePickerSample.swift; sourceTree = "<group>"; };
 		C329079C2C925263006F7F10 /* MapShowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapShowView.swift; sourceTree = "<group>"; };
 		C329079E2C92597B006F7F10 /* CameraPositionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPositionView.swift; sourceTree = "<group>"; };
 		C32AB1772C8BD6210084DCF3 /* ParenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParenView.swift; sourceTree = "<group>"; };
 		C32C5A932C9852FF00BC45C1 /* UISampleFormExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISampleFormExample.swift; sourceTree = "<group>"; };
+		C36A4C0E2CA3783200F1645E /* FocusExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusExampleView.swift; sourceTree = "<group>"; };
+		C36A4C112CA37C0100F1645E /* AnimationExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationExampleView.swift; sourceTree = "<group>"; };
 		C3719F8D2C9726F1005D0EB5 /* MapSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapSectionView.swift; sourceTree = "<group>"; };
 		C3719F8F2C97312B005D0EB5 /* UniversityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniversityView.swift; sourceTree = "<group>"; };
 		C382954A2C8FAB24001C8DB1 /* PopverExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopverExampleView.swift; sourceTree = "<group>"; };
@@ -80,12 +92,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C36A4C102CA37BE000F1645E /* Lesson04 */ = {
+			isa = PBXGroup;
+			children = (
+				C36A4C112CA37C0100F1645E /* AnimationExampleView.swift */,
+			);
+			path = Lesson04;
+			sourceTree = "<group>";
+		};
 		C3841D922CA2162000F7C67E /* Lesson03 */ = {
 			isa = PBXGroup;
 			children = (
 				C3841D932CA2164100F7C67E /* LabelView.swift */,
 				C3841D972CA2186500F7C67E /* ToolBarView.swift */,
+				C31BF9A82CA2225E007D4642 /* KeyboardExampleView.swift */,
+				C31BF9AC2CA23181007D4642 /* MultiDatePickerSample.swift */,
+				C31BF9AA2CA227CB007D4642 /* ShowOnAppearView.swift */,
+				C36A4C0E2CA3783200F1645E /* FocusExampleView.swift */,
 				C3841D952CA2176D00F7C67E /* NavigationBarView.swift */,
+				C31BF9A62CA21C1E007D4642 /* SearchExampleView.swift */,
 			);
 			path = Lesson03;
 			sourceTree = "<group>";
@@ -109,6 +134,7 @@
 		C38728352C89180900E9EBF1 /* SwiftUIPocket */ = {
 			isa = PBXGroup;
 			children = (
+				C36A4C102CA37BE000F1645E /* Lesson04 */,
 				C3841D922CA2162000F7C67E /* Lesson03 */,
 				C3DE8BBE2C90FACF00349D40 /* Lesson02 */,
 				C38728442C891B3C00E9EBF1 /* Lesson01 */,
@@ -236,11 +262,14 @@
 				C3151E1B2C8A72FA0024C19C /* BackgroundView.swift in Sources */,
 				C3719F8E2C9726F1005D0EB5 /* MapSectionView.swift in Sources */,
 				C32AB1782C8BD6210084DCF3 /* ParenView.swift in Sources */,
+				C31BF9A72CA21C1E007D4642 /* SearchExampleView.swift in Sources */,
 				C382954F2C8FB55B001C8DB1 /* ShapesView.swift in Sources */,
 				C3DE8BC62C910B5B00349D40 /* ScrollSnapView.swift in Sources */,
 				C3841D942CA2164100F7C67E /* LabelView.swift in Sources */,
 				C38295512C8FB9B3001C8DB1 /* ShapeButtonView.swift in Sources */,
+				C31BF9A92CA2225E007D4642 /* KeyboardExampleView.swift in Sources */,
 				C3E7A4C72C8E552A00660CBB /* ModalView.swift in Sources */,
+				C36A4C0F2CA3783200F1645E /* FocusExampleView.swift in Sources */,
 				C32C5A942C9852FF00BC45C1 /* UISampleFormExample.swift in Sources */,
 				C3841D962CA2176D00F7C67E /* NavigationBarView.swift in Sources */,
 				C3DE8BC02C90FB5000349D40 /* ShowImageView.swift in Sources */,
@@ -253,9 +282,12 @@
 				C38728392C89180900E9EBF1 /* ContentView.swift in Sources */,
 				C300C8F02C978FF5007D2504 /* OverlayView.swift in Sources */,
 				C38728462C891B6C00E9EBF1 /* SafeAreaView.swift in Sources */,
+				C31BF9AB2CA227CB007D4642 /* ShowOnAppearView.swift in Sources */,
+				C31BF9AD2CA23181007D4642 /* MultiDatePickerSample.swift in Sources */,
 				C3841D982CA2186500F7C67E /* ToolBarView.swift in Sources */,
 				C382954D2C8FADEE001C8DB1 /* TabExampleView.swift in Sources */,
 				C3719F902C97312B005D0EB5 /* UniversityView.swift in Sources */,
+				C36A4C122CA37C0100F1645E /* AnimationExampleView.swift in Sources */,
 				C329079F2C92597B006F7F10 /* CameraPositionView.swift in Sources */,
 				C329079D2C925263006F7F10 /* MapShowView.swift in Sources */,
 				C38728372C89180900E9EBF1 /* SwiftUIPocketApp.swift in Sources */,
