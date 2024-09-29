@@ -19,10 +19,14 @@
 		C329079F2C92597B006F7F10 /* CameraPositionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C329079E2C92597B006F7F10 /* CameraPositionView.swift */; };
 		C32AB1782C8BD6210084DCF3 /* ParenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32AB1772C8BD6210084DCF3 /* ParenView.swift */; };
 		C32C5A942C9852FF00BC45C1 /* UISampleFormExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32C5A932C9852FF00BC45C1 /* UISampleFormExample.swift */; };
+		C3478F932CA4B9FA0050845C /* WithAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3478F922CA4B9FA0050845C /* WithAnimationView.swift */; };
 		C36A4C0F2CA3783200F1645E /* FocusExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36A4C0E2CA3783200F1645E /* FocusExampleView.swift */; };
 		C36A4C122CA37C0100F1645E /* AnimationExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36A4C112CA37C0100F1645E /* AnimationExampleView.swift */; };
 		C3719F8E2C9726F1005D0EB5 /* MapSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3719F8D2C9726F1005D0EB5 /* MapSectionView.swift */; };
 		C3719F902C97312B005D0EB5 /* UniversityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3719F8F2C97312B005D0EB5 /* UniversityView.swift */; };
+		C375085D2CAA019400EBA365 /* PhotoPickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C375085C2CAA019400EBA365 /* PhotoPickerExample.swift */; };
+		C37E85812CA60C2C000C4C86 /* GestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37E85802CA60C2C000C4C86 /* GestureView.swift */; };
+		C37E85832CA6133C000C4C86 /* GestureEndView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37E85822CA6133C000C4C86 /* GestureEndView.swift */; };
 		C382954B2C8FAB24001C8DB1 /* PopverExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C382954A2C8FAB24001C8DB1 /* PopverExampleView.swift */; };
 		C382954D2C8FADEE001C8DB1 /* TabExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C382954C2C8FADEE001C8DB1 /* TabExampleView.swift */; };
 		C382954F2C8FB55B001C8DB1 /* ShapesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C382954E2C8FB55B001C8DB1 /* ShapesView.swift */; };
@@ -56,10 +60,14 @@
 		C329079E2C92597B006F7F10 /* CameraPositionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPositionView.swift; sourceTree = "<group>"; };
 		C32AB1772C8BD6210084DCF3 /* ParenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParenView.swift; sourceTree = "<group>"; };
 		C32C5A932C9852FF00BC45C1 /* UISampleFormExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISampleFormExample.swift; sourceTree = "<group>"; };
+		C3478F922CA4B9FA0050845C /* WithAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WithAnimationView.swift; sourceTree = "<group>"; };
 		C36A4C0E2CA3783200F1645E /* FocusExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusExampleView.swift; sourceTree = "<group>"; };
 		C36A4C112CA37C0100F1645E /* AnimationExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationExampleView.swift; sourceTree = "<group>"; };
 		C3719F8D2C9726F1005D0EB5 /* MapSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapSectionView.swift; sourceTree = "<group>"; };
 		C3719F8F2C97312B005D0EB5 /* UniversityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniversityView.swift; sourceTree = "<group>"; };
+		C375085C2CAA019400EBA365 /* PhotoPickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPickerExample.swift; sourceTree = "<group>"; };
+		C37E85802CA60C2C000C4C86 /* GestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureView.swift; sourceTree = "<group>"; };
+		C37E85822CA6133C000C4C86 /* GestureEndView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureEndView.swift; sourceTree = "<group>"; };
 		C382954A2C8FAB24001C8DB1 /* PopverExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopverExampleView.swift; sourceTree = "<group>"; };
 		C382954C2C8FADEE001C8DB1 /* TabExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabExampleView.swift; sourceTree = "<group>"; };
 		C382954E2C8FB55B001C8DB1 /* ShapesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesView.swift; sourceTree = "<group>"; };
@@ -96,6 +104,10 @@
 			isa = PBXGroup;
 			children = (
 				C36A4C112CA37C0100F1645E /* AnimationExampleView.swift */,
+				C37E85802CA60C2C000C4C86 /* GestureView.swift */,
+				C37E85822CA6133C000C4C86 /* GestureEndView.swift */,
+				C3478F922CA4B9FA0050845C /* WithAnimationView.swift */,
+				C375085C2CAA019400EBA365 /* PhotoPickerExample.swift */,
 			);
 			path = Lesson04;
 			sourceTree = "<group>";
@@ -262,6 +274,7 @@
 				C3151E1B2C8A72FA0024C19C /* BackgroundView.swift in Sources */,
 				C3719F8E2C9726F1005D0EB5 /* MapSectionView.swift in Sources */,
 				C32AB1782C8BD6210084DCF3 /* ParenView.swift in Sources */,
+				C375085D2CAA019400EBA365 /* PhotoPickerExample.swift in Sources */,
 				C31BF9A72CA21C1E007D4642 /* SearchExampleView.swift in Sources */,
 				C382954F2C8FB55B001C8DB1 /* ShapesView.swift in Sources */,
 				C3DE8BC62C910B5B00349D40 /* ScrollSnapView.swift in Sources */,
@@ -269,12 +282,15 @@
 				C38295512C8FB9B3001C8DB1 /* ShapeButtonView.swift in Sources */,
 				C31BF9A92CA2225E007D4642 /* KeyboardExampleView.swift in Sources */,
 				C3E7A4C72C8E552A00660CBB /* ModalView.swift in Sources */,
+				C37E85812CA60C2C000C4C86 /* GestureView.swift in Sources */,
 				C36A4C0F2CA3783200F1645E /* FocusExampleView.swift in Sources */,
 				C32C5A942C9852FF00BC45C1 /* UISampleFormExample.swift in Sources */,
 				C3841D962CA2176D00F7C67E /* NavigationBarView.swift in Sources */,
 				C3DE8BC02C90FB5000349D40 /* ShowImageView.swift in Sources */,
 				C382954B2C8FAB24001C8DB1 /* PopverExampleView.swift in Sources */,
 				C3DE8BC22C90FD0600349D40 /* ImageAspectView.swift in Sources */,
+				C37E85832CA6133C000C4C86 /* GestureEndView.swift in Sources */,
+				C3478F932CA4B9FA0050845C /* WithAnimationView.swift in Sources */,
 				C3DE8BC42C91025A00349D40 /* ScrollExampleView.swift in Sources */,
 				C3E7A4C92C8E5DE300660CBB /* InspectorView.swift in Sources */,
 				C3151E192C8A6F870024C19C /* AttributeView.swift in Sources */,
